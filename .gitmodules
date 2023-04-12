@@ -1,0 +1,3 @@
+[submodule "with-custom-auth_next"]
+	path = with-custom-auth_next
+	url = git@github.com:neo-rooney/with-custom-auth_next.git
